@@ -1,7 +1,7 @@
-# Kuis Online Sederhana Berbasis Web
+# Kuis Online Office Berbasis Web
 
 ## 1. Deskripsi Project
-Project ini merupakan aplikasi kuis online sederhana berbasis web menggunakan HTML, CSS, dan JavaScript. Kuis menampilkan lima soal pilihan ganda, masing-masing memiliki empat opsi jawaban. Sistem dilengkapi timer, perhitungan skor otomatis, dan penentuan kelulusan.
+Project ini merupakan aplikasi kuis online office berbasis web menggunakan HTML, CSS, dan JavaScript. Kuis menampilkan lima soal pilihan ganda, masing-masing memiliki empat opsi jawaban. Sistem dilengkapi timer, perhitungan skor otomatis, dan penentuan kelulusan.
 
 ---
 
